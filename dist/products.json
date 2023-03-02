@@ -1,0 +1,130 @@
+[
+  {
+    "id": 1,
+    "category":"sapato",
+    "title": "Tênis Griff, Olympikus, Masculino",
+    "price": 129.99,
+    "description": "",
+    "image": [
+      "https://m.media-amazon.com/images/I/51uESGXicpL._AC_SY575_.jpg",
+      "https://m.media-amazon.com/images/I/51I22LlpSbL._AC_SY575_.jpg",
+      "https://m.media-amazon.com/images/I/51cHU5mYCYL._AC_SY575_.jpg"
+    ],
+    "rating": {
+      "rate": 3.9,
+      "count": 120
+    }
+  },
+  {
+    "id": 2,
+    
+    "title": "Snake TENIS",
+    "price": 199,
+    "description": "Tênis tipo sapatilha indicado para náutica, rafting, canoagem, cascading, pesca e etc. Cabedal: Neoprene, cadarço com sistema de travamento e ajuste. Biqueira em borracha. Solado: Solado de borracha com alto grip e sistema de escoamento de água para melhor desempenho. Neoprene: Tecnologia a base de borracha microporosa de altíssima qualidade",
+    "category":"sapato",
+    "image": [
+      "https://m.media-amazon.com/images/I/51n+WxGiBvL._AC_SL1000_.jpg",
+      "https://m.media-amazon.com/images/I/51y5UCgEAAL._AC_SL1000_.jpg",
+      "https://m.media-amazon.com/images/I/51CCsD0nPXL._AC_SL1000_.jpg",
+      ""
+    ],
+    "rating": {
+      "rate": 4.1,
+      "count": 259
+    }
+  },
+  {
+    "id": 3,
+    "title": "Mochila Katar, NTK",
+    "price": 553.99,
+    "description": "A katar é uma mochila para uso diário com 2 compartimentos com acessos independentes; fabricada em poliéster oxford pu de alta tenacidade, ela é prática e fácil de carregar, ideal para o dia a dia; possui costado acolchoado que oferece maior conforto e ventilação, 2 bolsos frontais com fechamento e zíper e dois porta garrafas laterais de tela; informações gerais material: poliéster oxford pu de alta tenacidade peso do produto: 480g medidas: 27 (l) x 42 (c) x 5 (a) cm cores: preto com cinza . preto marca: ntk",
+    "category":"mochila",
+    "image": [
+      "https://m.media-amazon.com/images/I/61LCNYYnCtL._AC_SL1000_.jpg"
+    ],
+    "rating": {
+      "rate": 4,
+      "count": 500
+    }
+  },
+  {
+    "id": 4,
+    "title": "Mochila Aircontact 60+10 Sl 2019, Deuter",
+    "price": 4415.99,
+    "description": "Mochila cargueira Deuter com design sofisticado que apresenta equilíbrio perfeito entre conforto, peso e ventilação Aircontact Lite 60+10 SL Azul",
+    "category": "mochila",
+    "image": [
+      "https://m.media-amazon.com/images/I/81zxdaqDJIL._AC_SL1500_.jpg",
+      "https://m.media-amazon.com/images/I/81miy+K3uYL._AC_SL1500_.jpg",
+      "https://m.media-amazon.com/images/I/81jMXfuEwmL._AC_SL1500_.jpg",
+      "https://m.media-amazon.com/images/I/81WtZK2P1+L._AC_SL1500_.jpg"
+    ],
+    "rating": {
+      "rate": 2,
+      "count": 430
+    }
+  },
+  {
+    "id": 5,
+    "title": "Mochila, KKcare Mochila de caminhada",
+    "price": 695,
+    "description": "Esta mochila é resistente à água, respirável e durável. Com grande dade de 65L, é uma ótima opção para camping ao ar livre, caminhadas, montanhismo, viagens e outras atividades.",
+    "category": "mochila",
+    "image": [
+      "https://m.media-amazon.com/images/I/61K8UwXzE1L._AC_SL1500_.jpg",
+      "https://m.media-amazon.com/images/I/61faht9Y5oL._AC_SL1000_.jpg",
+      "https://m.media-amazon.com/images/I/71-kzGOXAlL._AC_SL1000_.jpg"
+    ],
+    "rating": {
+      "rate": 4,
+      "count": 400
+    }
+  },
+  {
+    "id": 6,
+    "title": "KKcare Mochila de caminhada",
+    "price": 500,
+    "description": "Esta mochila de trekking grande de 40L com espaço de armazenamento razoável, oferece mais conveniência durante suas atividades ao ar livre. Adequado para viagens, trekking, caminhadas, montanhismo e outras atividades ao ar livre.",
+    "category": "mochila",
+    "image": [
+      "https://m.media-amazon.com/images/I/71Y1UuWPkUL._AC_SL1500_.jpg",
+      "https://m.media-amazon.com/images/I/81PvRtPS7gL._AC_SL1500_.jpg",
+      "https://m.media-amazon.com/images/I/71MiVTktsbL._AC_SL1500_.jpg"
+    ],
+    "rating": {
+      "rate": 5,
+      "count": 70
+    }
+  },
+  {
+    "id": 7,
+    "title": "KKcare Mochila de viagem",
+    "price": 90.99,
+    "description": "Mochila 40L foi projetada para oferecer o equilíbrio perfeito entre durabilidade, tamanho, leveza, compacta e fácil de transportar/armazenar.",
+    "category": "mochila",
+    "image": [
+      "https://m.media-amazon.com/images/I/613RFNSo10L._AC_SL1000_.jpg",
+      "https://m.media-amazon.com/images/I/61XB5iOSTzL._AC_SL1000_.jpg",
+      "https://m.media-amazon.com/images/I/71m7ZVIGEqL._AC_SL1000_.jpg"
+    ],
+    "rating": {
+      "rate": 3,
+      "count": 400
+    }
+  },
+  {
+    "id": 8,
+    "title": "Mochila Nazca 40L Gt, NTK",
+    "price": 1200,
+    "description": "A Nazca é uma mochila semi-cargueira com perfeito ajuste nos ombros e compartimento para notebook. Fabricada em poliamida com revestimento em poliuretano, ela também acompanha capa de chuva protetora, que fica embutida. Sem contar que ela faz parte da família GT de mochilas NTK, uma série resistente, durável e de alta qualidade. É um modelo com capacidade para até 40 litros, com ajuste peitoral e apito de emergência, barrigueira com bolsos compactos, além do costado com o novo sistema Ayr System, proporcionando maior conforto e ergonomia aos usuários. Estruturalmente, a Nazca possui 2 bolsos laterais com tela e 2 frontais com fechamento por zíper. Leve, é ideal para viagens. Sem contar nas fitas compactadoras que reduzem suas medidas e na saída para reservatório de hidratação. Informações gerais Material: Poliamida com revestimento de poliuretano Peso do produto: 1.060 kg Capacidade: 40 litros Medidas: 32 (l) x 55 (c) x 10 (a) cm Cores: Amarelo. Preto Marca: NTK.",
+    "category": "mochila",
+    "image": [
+      "https://m.media-amazon.com/images/I/61pmnryDgHL._AC_SL1000_.jpg",
+      "https://m.media-amazon.com/images/I/71-iXpNxGZL._AC_SL1000_.jpg",
+      "https://m.media-amazon.com/images/I/71Ncc7Tu1+L._AC_SL1000_.jpg"
+    ],
+    "rating": {
+      "rate": 1.9,
+      "count": 100
+    }
+  }]
