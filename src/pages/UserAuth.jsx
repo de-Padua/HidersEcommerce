@@ -77,7 +77,7 @@ export default function UserAuth() {
     });
     if (found) {
       localStorage.setItem("loged", JSON.stringify(found));
-      window.location = "/HidersEcommerce/";
+      window.location = "google.com";
     } else {
       setFailLogin(true);
     }
