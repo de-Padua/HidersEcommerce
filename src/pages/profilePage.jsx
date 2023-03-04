@@ -48,7 +48,7 @@ export default function profilePage() {
               })}
             </div>
           </div>
-          <Link to="/">
+          <Link to="/HidersEcommerce/">
             <button className="btn-dif">Página principal</button>
           </Link>
         </div>

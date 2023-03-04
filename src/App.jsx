@@ -15,9 +15,9 @@ export default function App() {
   return (
     <>
       <Routes>
-        <Route path="/" element={<Home />} />
-        <Route path="/userAuth" element={<UserAuth />} />
-        <Route path="/profilePage" element={<ProfilePage />} />
+        <Route path="/HidersEcommerce/" element={<Home />} />
+        <Route path="/HidersEcommerce/userAuth" element={<UserAuth />} />
+        <Route path="/HidersEcommerce/profilePage" element={<ProfilePage />} />
       </Routes>
     </>
   );

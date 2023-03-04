@@ -48,7 +48,7 @@ export default function Navbar({
         setTimeout(() => {
           localStorage.setItem("loged", JSON.stringify("offline"));
           localStorage.setItem("cart", JSON.stringify([]));
-          window.location = "/";
+          window.location = "/HidersEcommerce/";
         }, 1000);
       }}
     ></FiLogOut>
@@ -56,7 +56,9 @@ export default function Navbar({
     ""
   );
   const userMsg = isLogged ? `${user.user}` : `Crie uma conta ou faça login`;
-  const userPath = isLogged ? "/profilePage" : "/userAuth";
+  const userPath = isLogged
+    ? "/HidersEcommerce/profilePage"
+    : "/HidersEcommerce/userAuth";
 
   useEffect(() => {
     userOpt();
