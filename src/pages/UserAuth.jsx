@@ -77,7 +77,7 @@ export default function UserAuth() {
     });
     if (found) {
       localStorage.setItem("loged", JSON.stringify(found));
-      window.location = "/";
+      window.location = "/HidersEcommerce/";
     } else {
       setFailLogin(true);
     }
@@ -157,7 +157,7 @@ export default function UserAuth() {
               </button>
             </div>
           </form>
-          <form action="/">
+          <form action="/HidersEcommerce/">
             <h1>Login</h1>
 
             <div className="icon">
